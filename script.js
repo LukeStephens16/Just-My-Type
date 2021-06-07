@@ -1,4 +1,4 @@
-let sentences = ['I like apples', 'I would much prefer pinnapples', 'Watermelon is actually the best', 'Let us talk about peaches tho', 'No way man, grapes are the best'];
+let sentences = ['ten ate neite ate nee enet ite ate inet ent eate', 'Too ato too nOt enot one totA not anot tOO aNot', 'oat itain oat tain nate eate tea anne inant nean', 'itant eate anot eat nato inate eat anot tain eat', 'nee ene ate ite tent tiet ent ine ene ete ene ate'];
 let keyUpper = $("#keyboard-upper-container");
 let keyLower = $("#keyboard-lower-container");
 let sentenceNumber = 0;
