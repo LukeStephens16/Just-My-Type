@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;	
+}
+
+h1 {
+  font-family: Bookman, URW Bookman L, serif; 
+  font-size: 8em;
+  text-align: center;
+  color: aliceblue;
+}
+
+#btn-row {
+  margin-top: 5em;
+}
+
+#play-button {
+  font-size: 300%;
+  display: block;
+  position: relative;
+  left: 40%;
+  width: 20%;
+}
+
+#menu {
+  margin-top: 3em;
+  padding-bottom: 3em;
+  margin-right: 20%;
+  margin-left: 20%;
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+#prompt-container {
+  font-family: Courier New, Courier, monospace;
+  font-size: 24px;
+  letter-spacing: 3px;
+}
+
+#target {
+  display: none;
+
+}
+
+body {
+  background-image: url("https://i.stack.imgur.com/p9mUO.jpg");
+  width: 100%;
+}
+
+#yellow-block {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 0px;
+  width: 20px;
+  height: 30px;
+  background-color: yellow;
+  padding: 0;
+}
+
+#keyboard-upper-container {
+    display: none;
+}
+
+#sentence {
+  top: 6px;
+  font-size: 30px;
+}
+
+.keyboard-container {
+  margin-top: 10em;
+}
+
+#target-letter {
+  font-size: 38px;
+}
+
+.keys-row {
+  margin-top: 40px;
+  padding: 10px 0;
+}
+
+.menu-row {
+  margin: 0;
+}
+
+#feedback {
+  font-size: 20px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+#sentence {
+  color: aliceblue;
+}
