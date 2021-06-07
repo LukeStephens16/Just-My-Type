@@ -7,7 +7,7 @@ h1 {
   font-family: Bookman, URW Bookman L, serif; 
   font-size: 8em;
   text-align: center;
-  color: aliceblue;
+  color: rgb(214, 220, 224);
 }
 
 #btn-row {
@@ -95,5 +95,5 @@ body {
 }
 
 #sentence {
-  color: aliceblue;
+  color: rgb(34, 103, 163);
 }
